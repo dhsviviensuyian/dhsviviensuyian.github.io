@@ -3,7 +3,7 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 <body>
 <h1> My Personal Portfolio</h1>
-<img src="https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=xgolh6ilu9j0#attid%253Datt_1628e46903d58cbb_0.2"/>
+<img src="https://mail.google.com/mail/u/0/#inbox/1628e39c5a531860?projector=1&messagePartId=0.2"/>
 <p>
 My name is Vivien Su Yi An. I am a 13 year old student of Dunman High School currently in 1st year high school. </p>
 <p>
