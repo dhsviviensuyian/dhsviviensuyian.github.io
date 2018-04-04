@@ -5,7 +5,7 @@
 <h1> My Personal Portfolio</h1>
 <img src="https://mail.google.com/mail/u/0/#inbox/1628e39c5a531860?projector=1&messagePartId=0.2"/>
 <p>
-My name is Vivien Su Yi An. I am a 13 year old student of Dunman High School currently in 1st year high school. </p>
+My name is Vivien Su Yi An.I am a 13 year old student of Dunman High School currently in 1st year high school. </p>
 <p>
 Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>. </p>
 <br>
