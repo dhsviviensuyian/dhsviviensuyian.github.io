@@ -3,7 +3,6 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 <body>
 <h1> My Personal Portfolio</h1>
-<title> This is my website </title>
 <img src=""/>
 <p>
 My name is Vivien Su Yi An. I am a 13 year old student of Dunman High School currently in 1st year high school. </p>
