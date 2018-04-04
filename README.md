@@ -15,5 +15,6 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 <li>Listening to music</li>
 <li>Exercising</li>
 <li>Travelling</li>
-<li>Sleep</i>
+<li>Sleep</li>
+</ul>
 </body>
