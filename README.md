@@ -22,4 +22,5 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 <p>
 Other than that I also like Kpop.I listen to their songs during my free time. Although I may not understand what they are saying but somehow I enjoy it. Sometimes I can get what they are saying and other times I probably use subtitles. My favourite Kpop groups are Exo, BLACKPINK and Got7. I like their concepts and their personalities.They can be really cool and fierce on stage but in real life they are just like us.
   <img src="https://i.pinimg.com/originals/04/6f/5c/046f5c1816a9047e14b8decc20e6fccd.jpg"/>
+  <img src="https://www.allkpop.com/upload/2017/12/af_org/21201527/black-pink.jpg"/>
 </body>
