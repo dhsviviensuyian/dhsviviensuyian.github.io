@@ -17,4 +17,5 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 <li>Travelling</li>
 <li>Sleeping</li>
 </ul>
+<img src="https://www.mycoastnow.com/30197/want-learn-art/"/>
 </body>
