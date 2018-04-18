@@ -20,5 +20,5 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 <img src="https://www.mycoastnow.com/30197/want-learn-art/"/>
   <h2>Other interests</h2>
 <p>
-Other than that I also like Kpop.I listen to their songs during my free time. Although I may not understand what they are saying but somehow I enjoy it. Sometimes I can get what they are saying and other times I probably use subtitles. My favourite Kpop groups are Exo, BLACKPINK and Got7.
+Other than that I also like Kpop.I listen to their songs during my free time. Although I may not understand what they are saying but somehow I enjoy it. Sometimes I can get what they are saying and other times I probably use subtitles. My favourite Kpop groups are Exo, BLACKPINK and Got7. I like their concepts and their personalities.They can be really cool and fierce on stage but in real life they are just like us.
 </body>
